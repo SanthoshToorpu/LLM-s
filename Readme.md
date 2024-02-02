@@ -22,4 +22,3 @@ The repository currently contains:
 
 * **[https://www.youtube.com/watch?v=UU1WVnMk4E8]** (Visual learning FTW! )
 
-I hope this bold and emoji-fied version is ready for your GitHub README!  Remember, you can always customize it further to match your style and project. 
